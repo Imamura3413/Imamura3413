@@ -1,5 +1,5 @@
 # 💫 About Me:
-Analista de TI - Pleno
+Analise de Desenvolvimento de Sistemas - Pleno
 
 
 ## 🌐 Socials:
