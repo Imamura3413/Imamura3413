@@ -1,9 +1,9 @@
 # 💫 About Me:
-Alessandro Imamura, com 25 anos de idade atuo como: Analista de Desenvolvimento de Sistemas - Pleno, sou um profissional comprometido e focado, visando sempre apontar e desenvolver soluções para problemas complexos e/ou cotidianos, seja através do desenvolvimento de automações, assim como sugestões de melhorias de processos já existentes. Possuo também vasta experiencia com e-commerce, mercado em que atuei por mais de 2 anos.
+Alessandro Imamura, com 25 anos de idade, atuo como Analista de Desenvolvimento de Sistemas - Pleno. Sou um profissional comprometido e focado, sempre buscando desenvolver soluções para problemas complexos e do dia a dia. Tenho experiência no desenvolvimento de automações e na sugestão de melhorias para processos existentes. Atuei no mercado de e-commerce por mais de 2 anos, adquirindo amplo conhecimento nessa área.
 
-Graduado em Ciência da Computação, possuo a especiliazação em ciência de dados e big data. Conhecimento em linguagens de programação como Delphi(object pascal), Python, PHP e R (backend, frontend). Além de dominar técnologias como HTML, CSS, gerenciamento de APIs, banco de dados PostgreSQL, MySql, NoSQL e MongoDB.
+Possuo graduação em Ciência da Computação e especialização em Ciência de Dados e Big Data. Tenho conhecimento em linguagens de programação como Delphi (Object Pascal), Python, PHP e R (backend e frontend). Além disso, tenho domínio de tecnologias como HTML, CSS, gerenciamento de APIs e bancos de dados PostgreSQL, MySQL, NoSQL e MongoDB.
 
-Habilidades: Inglês avançado, analise de de SEO e e-commerce, programação avançada.
+Minhas habilidades incluem inglês avançado, análise de SEO e e-commerce, além de programação avançada.
 
 
 ## 🌐 Socials:
