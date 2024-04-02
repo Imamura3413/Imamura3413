@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello! I'm Alessandro, a technology enthusiast with a degree in Computer Science. I'm passionate about solving problems and using my knowledge to enhance people's lives on a daily basis.
 
-My journey in programming began with languages such as Turbo Pascal, Python, PHP, and Java. Over time, I've developed skills in automation, system integration through APIs, and data manipulation in formats like JSON.
+My journey in programming began with languages such as Delphi(Pascal), Python, PHP, and Java. Over time, I've developed skills in automation, system integration through APIs, and data manipulation in formats like JSON.
 
 Recently, I embarked on a new adventure working with Salesforce, the world's leading CRM, as a beginner trailblazer. I'm excited about the possibilities this new horizon can offer.
 
