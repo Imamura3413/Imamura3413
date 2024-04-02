@@ -1,9 +1,13 @@
 # 💫 About Me:
-Alessandro Imamura, com 25 anos de idade, atuo como Analista de Desenvolvimento de Sistemas - Pleno. Sou um profissional comprometido e focado, sempre buscando desenvolver soluções para problemas complexos e do dia a dia. Tenho experiência no desenvolvimento de automações e na sugestão de melhorias para processos existentes. Atuei no mercado de e-commerce por mais de 2 anos, adquirindo amplo conhecimento nessa área.
+Hello! I'm Alessandro, a technology enthusiast with a degree in Computer Science. I'm passionate about solving problems and using my knowledge to enhance people's lives on a daily basis.
 
-Possuo graduação em Ciência da Computação e especialização em Ciência de Dados e Big Data. Tenho conhecimento em linguagens de programação como Delphi (Object Pascal), Python, PHP e R (backend e frontend). Além disso, tenho domínio de tecnologias como HTML, CSS, gerenciamento de APIs e bancos de dados PostgreSQL, MySQL, NoSQL e MongoDB.
+My journey in programming began with languages such as Turbo Pascal, Python, PHP, and Java. Over time, I've developed skills in automation, system integration through APIs, and data manipulation in formats like JSON.
 
-Minhas habilidades incluem inglês avançado, análise de SEO e e-commerce, além de programação avançada.
+Recently, I embarked on a new adventure working with Salesforce, the world's leading CRM, as a beginner trailblazer. I'm excited about the possibilities this new horizon can offer.
+
+My professional experience includes roles as an E-Commerce Analyst, where I integrated ERPs with major marketplaces and developed workflows using their APIs. Currently, I serve as a Systems Development Analyst at a fuel company.
+
+Furthermore, I have advanced English skills, enabling me to communicate effectively with teams and individuals worldwide. I'm eager to continue learning and growing in this exciting and dynamic field of technology.
 
 
 ## 🌐 Socials:
